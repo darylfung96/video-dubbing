@@ -1,0 +1,9 @@
+.idea/
+data/
+__pycache__/
+.DS_Store
+*.ckpt
+*.pth
+*.mp3
+*.mp4
+*.wav
